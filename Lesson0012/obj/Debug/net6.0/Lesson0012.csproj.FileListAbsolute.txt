@@ -1,0 +1,15 @@
+C:\Users\AORUS\lesson\Lesson0012\bin\Debug\net6.0\Lesson0012.exe
+C:\Users\AORUS\lesson\Lesson0012\bin\Debug\net6.0\Lesson0012.deps.json
+C:\Users\AORUS\lesson\Lesson0012\bin\Debug\net6.0\Lesson0012.runtimeconfig.json
+C:\Users\AORUS\lesson\Lesson0012\bin\Debug\net6.0\Lesson0012.dll
+C:\Users\AORUS\lesson\Lesson0012\bin\Debug\net6.0\Lesson0012.pdb
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.csproj.AssemblyReference.cache
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.AssemblyInfoInputs.cache
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.AssemblyInfo.cs
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.dll
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\refint\Lesson0012.dll
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.pdb
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\Lesson0012.genruntimeconfig.cache
+C:\Users\AORUS\lesson\Lesson0012\obj\Debug\net6.0\ref\Lesson0012.dll
